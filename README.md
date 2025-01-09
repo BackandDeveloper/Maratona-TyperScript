@@ -1,5 +1,5 @@
 ## 🚀| Desafio de TypeScript
-Descrição
+
 Este repositório contém 15 questões de TypeScript, desenvolvidas como parte de um desafio de programação. Cada questão aborda conceitos fundamentais e avançados da linguagem TypeScript, proporcionando uma excelente oportunidade para praticar e aprimorar suas habilidades em desenvolvimento com TypeScript. 💻
 
 Funcionalidades
